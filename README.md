@@ -1,5 +1,5 @@
 ## **Math (log/trig)**
-
+[![Build status](https://ci.appveyor.com/api/projects/status/yfsr6tvxbppvdnd3?svg=true)](https://ci.appveyor.com/project/Pavka16/math)
 ### **Легенда**
 
 Мощь атаки магов и демонов привела к разбалансировке игрового мира. Поэтому вы ввели для игроков новые правила и возможности:
